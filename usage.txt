@@ -1,0 +1,7 @@
+
+    pinot [-e] [-h]
+
+    -e | --show-errors     show erros
+    -h | --show-headers    show response headers
+
+    --help                 show this help
