@@ -1,6 +1,8 @@
 {
+	"name":"pinot",
+	"version":"1.0.0",
 	"bin": {
-		"pinot": "./cmd.js"	
+		"pinot": "./cmd.js"
 	},
   "dependencies": {
     "chalk": "^2.3.2"
