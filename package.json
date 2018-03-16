@@ -1,8 +1,8 @@
 {
 	"name": "pinot",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "Transform Pino HTTP log messages with a format string",
-  "license": "MIT",
+	"license": "MIT",
 	"bin": {
 		"pinot": "./cmd.js"
 	},
