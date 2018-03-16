@@ -1,10 +1,10 @@
 {
-	"name":"pinot",
-	"version":"1.0.0",
+	"name": "pinot",
+	"version": "1.0.1",
 	"bin": {
 		"pinot": "./cmd.js"
 	},
-  "dependencies": {
-    "chalk": "^2.3.2"
-  }
+	"dependencies": {
+		"chalk": "^2.3.2"
+	}
 }
